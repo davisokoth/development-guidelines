@@ -2,10 +2,10 @@
 
 This document provides the guidelines to be followed by third-party developers engaged by Kinja Digital for projects.
 
-1. Project management flow
-2. Development flow
-3. PHP standards
-4. JS standards
+1. [Project management flow](#project-management-flow)
+2. [Development flow](#development-flow)
+3. [PHP standards](#php-standards)
+4. [JS standards](#js-standards)
 
 ---
 
@@ -34,17 +34,23 @@ The workflow is illustrated below:
 
 All team communication is handled using [Slack](https://www.slack.com). 
 
-* A channel for each project
-* A channel for general discussion
-* A channel for (automated) project related alerts
+Each project will have:
 
-Daily "stand up"
+* A channel for general project discussion
+* A channel for (automated) project related alerts (GitHub, Trello, deployments, application-level alerts, etc...)
+* A channel for team status updates
+
+
+### Stand ups
+
+
+At the beginning of each day at a predetermined time (typically between 9-10AM), all members of the project team will join the status update channel in Slack and perform the **Daily "stand up"**. This involves each developer posting answers to the following three questions:
 
 1. What did I accomplish yesterday?
 2. What will I focus on today?
 3. What obstacles are impeding my progress?
 
-End of day status update
+**Note**: for some projects (especially early phase), the stand up will be performed over Skype instead of Slack.
 
 ---
 
@@ -92,9 +98,9 @@ All committed code **must** be run through the [PHP coding standards fixer](http
 
 ## JS Standards
 
-### Dialect
+### Dialect 
 
-We use vanilla JavaScript.
+We currently use [ES5](http://kangax.github.io/compat-table/es5/).
 
 ### Coding style
 
