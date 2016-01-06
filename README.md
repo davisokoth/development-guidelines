@@ -21,7 +21,7 @@ All architectural decisions [12 Factor App](http://12factor.net/)
 
 ## High level system architecture
 
-![High level architecture diagram][https://docs.google.com/drawings/d/1sw8Qk4rK8NdSHqcZyW2j3zb79Hn7Q065jz-bP36FA6Q/pub?w=960&amp;h=720]
+![High level architecture diagram](https://docs.google.com/drawings/d/1sw8Qk4rK8NdSHqcZyW2j3zb79Hn7Q065jz-bP36FA6Q/pub?w=720&amp;h=540)
 
 ---
 
