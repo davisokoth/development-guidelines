@@ -63,7 +63,8 @@ An example status update email is provided below for reference:
 ```
 Subject: Daily Update 09/01/2016
 
-Today I worked on #96 and #97. #96 is finished and I opened a pull request for it, but #97 is still in progress. I think it will take me another 2 days to finish it.
+Today I worked on #96 and #97. #96 is finished and I opened a pull request for it, but #97 is still in progress.
+I think it will take me another 2 days to finish it.
 
 I looked at #98 but I don't understand it. Can you add a wireframe for the user interface?
 ```
