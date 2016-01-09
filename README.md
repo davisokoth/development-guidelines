@@ -52,6 +52,22 @@ At the beginning of each day at a predetermined time (typically between 9-10AM),
 
 **Note**: for some projects (especially early phase), the stand up will be performed over Skype instead of Slack.
 
+
+### Daily status updates
+
+
+At the end of each day, all members of the project team will send a quick 2-3 sentence status update via either email or Slack to the project lead. This status update should specify what was worked on during the day, the level of progress on the tasks completed as well as any concerns or problems encountered.
+
+An example status update email is provided below for reference:
+
+```
+Subject: Daily Update 09/01/2016
+
+Today I worked on #96 and #97. #96 is finished and I opened a pull request for it, but #97 is still in progress. I think it will take me another 2 days to finish it.
+
+I looked at #98 but I don't understand it. Can you add a wireframe for the user interface?
+```
+
 ---
 
 ## Development flow
