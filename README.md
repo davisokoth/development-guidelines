@@ -1,6 +1,6 @@
-# Kinja Development Guidelines
+# Ginja Development Guidelines
 
-This document provides the guidelines to be followed by third-party developers engaged by Kinja Digital for projects.
+This document provides the guidelines to be followed by third-party developers engaged by Ginja Digital for projects.
 
 1. [Project management flow](#project-management-flow)
 2. [Development flow](#development-flow)
